@@ -11,7 +11,7 @@ If you have not been redirected from the Subnautica-Guides, or do not need the p
 extension of repository: "Subnautica-Guides"
 
 
-All content of this repository is property of the SubnauticaGRIP team and cannot be used by any means without direct permission from any of the following administrators:
+All content of this repository is property of the SubnauticaGRIP team and cannot be used by any means without direct consent/permission from any of the following administrators:
 
 Dragenst1,
 CeraK
